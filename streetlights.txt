@@ -1,0 +1,9 @@
+vidyanagar 0
+vijaynagar 1
+amargol 2
+gokul_rd 3
+hosur 4
+keshwapur 5
+koppikar_road 6
+jc_nagar 7
+durgad_bail 8
